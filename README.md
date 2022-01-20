@@ -1,6 +1,5 @@
-## tasty-bones-memory
-Tasty bones memory game!
+##Tasty Bones Memory Game!
 
 #Created by psyduck#1328
 
-![alt text](http://url/to/img.png)
+![Tasty Bones Memory Game!](https://i.imgur.com/0TQ27MO.png)
