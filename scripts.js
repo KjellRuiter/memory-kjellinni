@@ -41,7 +41,7 @@ function disableCards() {
 
   pairs++;
 
-  if (pairs == 6) endGame();
+  if (pairs == 8) endGame();
 
   resetBoard();
 }
