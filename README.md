@@ -1,5 +1,5 @@
-##Tasty Bones Memory Game!
+##MSC Game!
 
-#Created by psyduck#1328
+#Created #gangsatu99
 
-![Tasty Bones Memory Game!](https://i.imgur.com/0TQ27MO.png)
+
