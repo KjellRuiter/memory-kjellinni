@@ -24,7 +24,7 @@ html {
   .meta {
     margin-top: 25px;
     font-size: larger;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     display: flex;
     justify-content: center;
   }
@@ -89,7 +89,7 @@ html {
   }
   .like_post {
     margin-top: 5px;
-    font-size: 10px;
+    font-size: 12px;
   }
 
   @media only screen and (max-width: 600px) {
