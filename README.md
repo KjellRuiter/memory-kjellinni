@@ -1,5 +1,5 @@
-##Tasty Bones Memory Game!
+##Mutant Shiba Club Memory Game!
 
-#Created by psyduck#1328
+#Created by kjellinni#6539
 
 ![Tasty Bones Memory Game!](https://i.imgur.com/BeJMOt1.png)
