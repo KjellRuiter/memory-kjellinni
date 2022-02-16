@@ -24,7 +24,7 @@ html {
   .meta {
     margin-top: 25px;
     font-size: larger;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: poppins,helvetica neue,Arial,sans-serif;
     display: flex;
     justify-content: center;
   }
@@ -64,11 +64,10 @@ html {
   .back {
     width: 100%;
     height: 100%;
-    padding: 20px;
     position: absolute;
     border-radius: 5px;
     backface-visibility: hidden;
-    background-color: #48c6ef;
+    background-color: #000000;
   }
   
   .card:active {
